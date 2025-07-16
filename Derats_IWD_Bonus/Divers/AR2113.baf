@@ -1,0 +1,9 @@
+IF
+	Global("PXIWDbonus2","GLOBAL",0)
+	AreaCheck("AR2113")
+THEN
+	RESPONSE #100
+		SetGlobal("PXIWDbonus2","GLOBAL",1)
+		CreateCreature("wmart2",[296.123],SW)
+
+END

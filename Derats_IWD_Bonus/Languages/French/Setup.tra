@@ -1,0 +1,353 @@
+@0 = ~Deirdre~
+@1 = ~Bonjour, je suis Deidre. J'appartiens au bazar de magie d'Aurora et j'ai accès à son importante collection d'objets magiques.~
+@2 = ~Souhaitez-vous jeter un coup d'œil à mes marchandises ~
+@3 = ~Oui.~
+@4 = ~Pas pour l'instant.~
+@5 = ~Joluv~
+@6 = ~Bonjour, je suis Joluv. Je viens récemment d'arriver d'Athkatla. Ce fut un long voyage, mais je voulais obtenir le plus d'argent possible des objets que j'ai récupérés dans le sud.~
+@7 = ~Le grand arbre a la réputation d'être l'exception à voir dans le Val de Bise. Je savais donc que j'y trouverais des aventuriers disposant des ressources financières suffisantes. Voulez-vous jeter un coup d'œil à mes marchandises ~ 
+@8 = ~Non merci~ 
+@9 = ~Lilibel~
+@10 = ~Bonjour, je suis Lilibel. J'arrive tout droit d'Athkatla, J'ai apporté des objets magiques glanés de ci-de là et très utiles. Voulez vous les voir ?~
+@11 = ~Peut-être plus tard.~
+@12 = ~Marchands bonus pour IWD~
+@13 = ~Ce module n'est prévu que pour IWDEE~
+@14= ~Échoppe~
+
+@21 = ~Engrais à navet Jansen (marque déposée)~
+@22 = ~Jan Jansen était un gnome farfelu qui a accompagné : un enfant de bhaal pendant son périple jusqu'à la divinité. Une fois l'aventure finie, il est rentrée chez lui et c'est consacré à la création de son œuvre la plus fameuse : l'engrais à navet. Ces petite graines, lancés sur une zone, accélèrent la croissance des navet (et de toutes les autres plantes) et en plus attirent les guèpes.
+
+Capacités de charge :
+Lance sur la zone visée Enchevêtrement (jet de sauvegarde à -3) et Fléau d'insectes.~
+
+@23 = ~Allubiasana~
+@24 = ~Cette lance fut crée et enchantée après l'attaque par un elfe renégat de Suldanessellar, la ville elfe. Elle a été conçu spécialement pour combattre les horreurs qui avaient envahi la ville.
+
+PARAMÈTRES
+
+Capacités de combat:
+Détruit les golems, rakshasas et démons (jet de sauvegarde contre la mort à +4)
+
+TAC0 : +3
+Dégâts : 1d10+3 (perforant)
+Facteur de vitesse : 3
+Type de compétence : lance
+Type : arme à deux mains
+Nécessite : 5 en force
+
+Poids : 5~
+
+@25 = ~Choppe à Bière de Korgan
+@26 = ~~C'est la choppe à bière magique que korgan c'est offerte après ses aventures avec un enfant de bhaal. Elle est constamment pleine et si elle est utilisé par un autre que lui, permet de ressentir son envie de meurtre.
+
+Capacités de charge : Rage de Berserk deux fois par jour.~
+
+@26 = ~Katana "Tue-mage".~
+@27 = ~Le katana de Valygar, après ces nombreuses aventures, c'est chargé de sa haine des mages.~
+
+@31 = ~Lame zerth de Dak'kon +2~
+@32 = ~L'arme de prédilection du fameux githzerai Dak'kon. Il fut tué par une entité inconnue alors qu'il travaillait pour un un être appelé « Sans-nom ». 
+ 
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +1
+- Permet de mémoriser un sort de magicien supplémentaire de 1er, 2e, 3e et 4e niveau.
+
+TAC0 : +2
+Dégâts : 1d10+2 (tranchants)
+Facteur de vitesse : 2
+Type de compétence : katana
+Type : arme à une main
+Nécessite :
+6 en Force
+
+Poids : 4~
+@33 = ~Amulette de sensation~
+@34 = ~Cette amulette provient de la ville de Sigil, où elle fut forgée par les membres de la Société de la Sensation. Elle était traditionnellement donnée comme protection aux membres à la recherche de nouvelles sensations, prêts pour ce faire à voyager parmi les plans d'existence.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Charisme : +2
+- Points de vie : +5
+- Protection contre le mal
+
+Poids : 3~
+@35 = ~Harpe de pandémonium~
+@36 = ~Harpe de pandémonium de Ravel
+Ravel était une puissante sorcière de la ville de Sigil. Elle se rendit indésirable aux yeux de la Dame de la Douleur, une sorte de divinité à la tête de cette même ville, qui l'emprisonna dans un labyrinthe magique pour l'éternité. Cette harpe est l'un des nombreux objets magiques que Ravel laissa derrière elle à Sigil.
+
+PARAMÈTRES :
+
+Capacités de charge :
+- Pandémonium 3 fois par jour
+  Spécial : les ennemis doivent réussir un jet de sauvegarde contre les sorts ou être projetés loin du barde et confus pendant 3 rounds.
+
+Poids : 6~
+@37 = ~Hallebarde de l'Harmonium +3~
+@38 = ~Cette puissante arme est généralement destinée au plus influent des capitaines de l'Harmonium, faction qui opère à l'extérieur de la ville planaire de Sigil.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Force : +1
+- Intelligence : -1
+- Sagesse : -1
+
+TAC0 : +3
+Dégâts : 1d10+3 (perforants)
+Facteur de vitesse : 6
+Type de compétence : hallebarde
+Type : arme à deux mains
+Nécessite :
+11 en Force
+
+Poids : 12~
+@39 = ~Heaume de Vhailor~
+@310 = ~Ce casque appartenait à un mystérieux guerrier du nom de Vhailor. Il fut tué alors qu'il aidait une créature appelée « L'Anonyme ».
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Protège contre les coups critiques.
+- Classe d'armure : +1
+
+Capacités de charge :
+- Simulacre une fois par jour
+  Durée : 16 rounds
+
+Poids : 2~
+@311 = ~Armure de Baldurien~
+@312 = ~Cette armure appartenait au célèbre Baldurien. Elle fait partie des objets dérobés au musée de la ville de la Porte de Baldur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Charisme : +1
+- Points de vie : +4
+
+Classe d'armure : -1 (-5 contre les armes tranchantes, -4 contre les armes perforantes et les projectiles)
+Nécessite :
+15 en Force
+
+Poids : 50~
+@313 = ~Anneau de Sans-Pitié~
+@314 = ~Les Sans-Pitié forment un puissant groupe basé dans les environs de la ville planaire de Sigil. Cet anneau est donné aux assassins devant se débarrasser de ceux qui ont enfreint les lois de Sigil. Il arrive parfois que ces assassins doivent poursuivre leur proie jusque dans le Plan Matériel Primaire.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Furtivité : +20 %
+- Se cacher dans l'ombre : +20 %
+- Pose de pièges : +20 %
+
+Poids : 0~
+@315 = ~Robe de Vecna~
+@316 = ~Cette robe est loin de recéler la puissance des deux autres célèbres objets magiques, la Main et l'Œil de Vecna. Mais le simple fait d'avoir été portée par la liche a permis à cette robe d'absorber suffisamment d'énergie magique pour posséder des capacités extraordinaires.
+
+ARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : 5
+- Résistance à la magie : +10 %
+- Augmente la vitesse d'incantation de 4.
+
+Poids : 3~
+@317 = ~Épée de Baldurien~
+@318 = ~Cette épée était l'arme de prédilection de Baldurien, héros fondateur de la ville de la Porte de Baldur. Elle fait partie des objets dérobés au musée de la ville.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Résistance à la magie : +10 %
+- Connaissances : +10
+
+TAC0 : +2
+Dégâts : 1d8+2 (tranchants)
+Facteur de vitesse : 3
+Type de compétence : épée longue
+Type : arme à une main
+Nécessite :
+5 en Force
+
+Poids : 3~
+@319 = ~Bouclier de Baldurien~
+@320 = ~Le bouclier du célèbre héros Baldurien. Il fait partie des objets dérobés au musée de la ville de la Porte de Baldur.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +4
+- Force : -1
+
+Capacités de combat :
+- Renvoi des rayons des tyrannœils
+
+Nécessite :
+12 en Force
+
+Poids : 4~
+@41 = ~Bâton d'Arundel +3~
+@42 = ~Il s'agit d'une version moins puissante du Bâton des Bâton des forêts. Celui-ci fut créé par Arundel, un archidruide qui vivait dans la ville de Kuldahar jusqu'à ce que le diable Belhifet le retrouve.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Résistance au froid : +10 %
+- Résistance au feu : +10 %
+- Permet de mémoriser 1 sort divin supplémentaire du 5e et du 6e niveaux
+
+TAC0 : +3
+Dégât : 1d6+3 (contondant)
+Facteur de vitesse : 0
+Type de compétence : bâton
+Type : arme à deux mains
+Nécessite : 9 en Dextérité
+
+Poids : 3~
+@43 = ~Wakizashi de Kachiko +3~
+@44 = ~Cette épée était l'arme de prédilection d'une guerrière nommée Kachiko. La seule chose dont on soit sûr à son sujet, c'est qu'elle a débarqué des lointaines contrées de Kara-Tur.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Absorbe 2 points de sagesse pendant 2 rounds à chaque attaque (jet de sauvegarde contre la mort pour annuler)
+
+TAC0 : +3
+Dégâts : 1d8+3 (perforant)
+Facteur de vitesse : 0
+Type de compétence : cimeterre/wakizashi/ninjatō
+Type : arme à une main
+Nécessite : 5 en Force
+
+Poids : 2~
+@45 = ~Ninjato de la Confrérie Écarlate +3~
+@46 = ~Lorsqu'un membre de la Confrérie Écarlate tue l'un des « grands ennemis » de cette organisation, il est souvent récompensé par cette épée. En revanche, personne ne sait comment cette épée est arrivée dans Féérune depuis le monde de Faucongris (où siège la confrérie). Une fois dégainé, ce ninjato luit d'une couleur rouge sang.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- Une attaque supplémentaire par round
+- La cible subit 6 points de dégâts de poison par round pendant 2 rounds (jet de sauvegarde contre la mort pour annuler)
+
+TAC0 : +3
+Dégâts : 1d8+3 (tranchant)
+Facteur de vitesse : 1
+Type de compétence : cimeterre/wakizashi/ninjatō
+Type : arme à une main
+Nécessite : 6 en Force
+
+Poids : 2~
+@47 = ~Fronde d'Everard +5~
+@48 = ~Cette fronde d'Everard était une arme sacrée du dieu Tempus offerte à Everard pour l'aider dans son combat contre les créatures de Val Bise.
+
+PARAMÈTRES :
+
+Capacités de combat : 
+- Si aucune bille n'est équipée, la fronde lance des projectiles +5 infligeant 1d4+2 points de dégâts de projectiles.
+
+TAC0 : +5
+Dégâts : +2 (projectile)
+Facteur de vitesse : 0
+Type de compétence : fronde
+Type : arme à une main
+Nécessite : 3 en Force
+
+Poids  0~
+@49 = ~Masse d'armes de Jerrod +2~
+@410 = ~Il s'agissait de l'arme de prédilection d'un prêtre de Tempus nommé Jerrod. Ce dernier sacrifia sa vie pour sauver la ville d'Havredest contre le terrible diable Belhifet.
+
+PARAMÈTRES :
+
+TAC0 : +2, +5 contre les démons et les diables
+Dégâts : 1d6+3, +6 contre les démons et les diables
+Type de dégâts : contondant
+Facteur de vitesse : 5
+Type de compétence : masse d'armes
+Type : arme à une main
+
+Poids : 7~
+@411 = ~Morgenstern d'Everard +2~
+@412 = ~Cette morgenstern était l'arme personnelle du clerc Everard. Ce puissant prêtre de Tempus a perdu la vie lors d'un combat épique contre le diable Belhifet.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 50 % de chances par attaque que le lanceur de sort visé oublie un sort
+
+TAC0 : +2
+Dégâts : 2d4+2 (contondant)
+Facteur de vitesse : 5
+Type de compétence : fléau d'armes/morgenstern
+Type : arme à une main
+Nécessite : 11 en Force
+
+Poids : 9~
+@413 = ~Lance de Kuldahar +3~
+@414 = ~Cette lance a été forgée par les druides de l'arbre géant de Kuldahar. Elle était destinée au guerrier qui défendrait Kuldahar.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Points de vie : +8
+
+TAC0 : +3
+Dégâts : 1d6+3 (perforant)
+Facteur de vitesse : 3
+Type de compétence : lance
+Type : arme à deux mains
+Nécessite : 5 en Force
+
+Poids : 3~
+@415 = ~Protecteur d'Havredest +3~
+@416 = ~Ce fléau fut forgé il y a un siècle environ, en l'honneur de la défaite du diable Belhifet. Il devait toujours être conservé dans la ville d'Havredest pour rappeler à la population que le démon n'avait été vaincu qu'après de terribles combats.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Classe d'armure : +1
+- +20 % de résistance aux armes tranchantes, perforantes et contondantes
+
+TAC0 : +3
+Dégâts : 1d6+4 (contondant)
+Facteur de vitesse : 5
+Type de compétence : fléau d'armes/morgenstern
+Type : arme à une main
+Nécessite : 13 en Force
+
+Poids : 12~
+@417 = ~Dague de Joril +3~
+@418 = ~Joril était un puissant géant du givre qui vivait sur l'Épine Dorsale du Monde. Sa dague magique fut perdue lorsqu'il trouva la mort après une petite excursion d'aventuriers en mal de sensations fortes. Elle fut aperçue par la suite dans la ville de Kuldahar, où elle fut manifestement reforgée pour être utilisée comme une épée à deux mains.
+
+PARAMÈTRES :
+
+Capacités de combat :
+- 25 % de chances à chaque attaque de rendre la cible confuse pendant 3 rounds (jet de sauvegarde contre les sorts pour annuler)
+
+TAC0 : +3
+Dégâts : 1d10+3, +1 point de dégâts de froid
+Type de dégâts : tranchant
+Facteur de vitesse : 7
+Type de compétence : épée à deux mains
+Type : arme à deux mains 
+Nécessite : 13 en Force
+
+Poids : 10~
+@419 = ~Hache de Hrothgar +3~
+@420 = ~Cette hache d'armes était portée par un aventurier de la ville d'Havredest, à Val Bise. Il mourut il y a environ un siècle en combattant le terrible diable Belhifet.
+
+PARAMÈTRES :
+
+Capacités d'équipement :
+- Sagesse : +1
+- Charisme : +1
+
+TAC0 : +3
+Dégâts : 1d8+3 (tranchant)
+Facteur de vitesse : 4
+Type de compétence : hache d'armes
+Type : arme à une main
+Nécessite : 10 en Force
+
+Poids : 5~

@@ -1,0 +1,330 @@
+@0 = ~Deirdre~
+@1 = ~Greetings, adventurer. I am Deidre. I am a member of the Aurora's magic emporium and have access to her considerable collection of magical treasures.~
+@2 = ~Would you be interested in taking a look at my wares?~
+@3 = ~Yes.~
+@4 = ~Not at the moment.~
+@5 = ~Joluv~
+@6 = ~Greetings, I am Joluv. I have recently arrived from Athkatla. It was a long trek, but I wanted to get the most value I could from the items I had collected up south.~
+@7 = ~The great tree is renowned as the exception to be seen in the Icewind Dale. so I knew there would be adventurers about with the amount of coin I was looking for. Would you like to take a look at my wares?~
+@8 = ~No, thanks.~ 
+@9 = ~Lilibel~
+@10 = ~Greetings, I'm Lilibel. I've just arrived from Athkatla, and I've brought some magical items that I've picked up here and there, which are very useful. Would you like to see them?~
+@11 = ~Maybe later.~
+@12 = ~Bonus merchants for IWD~
+@13 = ~This module is only intended for IWDEE~.
+@14= ~Shop~
+
+@31 = ~Dak'kon's Zerth Blade +2~
+@32 = ~This sword was the weapon of choice of the famous githzerai Dak'kon. Dak'kon was killed by a powerful entity while working for a creature known as the "Nameless One."
+ 
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1
+– Can memorize one extra 1st-, 2nd-, 3rd-, and 4th-level wizard spell
+
+THAC0: +2
+Damage: 1d10+2 (slashing)
+Speed Factor: 2
+Proficiency Type: Katana
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 4~
+@33 = ~Sensate Amulet~
+@34 = ~This amulet originates in the city of Sigil, where it was forged by the Society of Sensation. It was given out to the most loyal Sensates to protect them when they traveled the planes looking for new experiences.
+
+STATISTICS:
+
+Equipped abilities:
+– Charisma: +2
+– Hit Points: +5
+– Protection From Evil
+
+Weight: 3~
+@35 = ~Harp of Pandemonium~
+@36 = ~Ravel was a powerful night hag that lived in the city of Sigil. Somehow she angered the Lady of Pain, a powerful godlike figure that rules the city of Sigil. The Lady of Pain imprisoned Ravel within a magical maze, where the night hag would be trapped for all time. The harp was one of the many artifacts that Ravel left behind in Sigil when she was imprisoned.
+
+STATISTICS:
+
+Charge abilities:
+– Pandemonium three times per day
+  Special: Enemies must save vs. Spell or be tossed away from the Bard as well as confused for 3 rounds
+
+Weight: 6~
+@37 = ~Harmonium Halberd +3~
+@38 = ~This halberd is a powerful weapon usually given out to the most important of Harmonium captains. The Harmonium is a faction based out of the planar city known as "Sigil."
+
+STATISTICS:
+
+Equipped abilities:
+– Strength: +1
+– Intelligence: -1
+– Wisdom: -1
+
+THAC0: +3
+Damage: 1d10+3 (piercing)
+Speed Factor: 6
+Proficiency Type: Halberd
+Type: Two-handed
+Requires:
+ 11 Strength
+
+Weight: 12~
+@39 = ~Vhailor's Helm~
+@310 = ~This helmet was worn by a mysterious warrior named Vhailor. The warrior was destroyed while helping a creature known as the "Nameless One."
+
+STATISTICS:
+
+Equipped abilities:
+– Protects against critical hits
+– Armor Class: +1
+
+Charge abilities:
+– Simulacrum once per day
+  Duration: 16 rounds
+
+Weight: 2~
+@311 = ~Plate of Balduran~
+@312 = ~This plate was worn by the famous hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped abilities:
+– Charisma: +1
+– Hit Points: +4
+
+Armor Class: -1 (-5 vs. slashing, -4 vs. piercing and missile)
+Requires:
+ 15 Strength
+
+Weight: 50~
+@313 = ~Mercykiller Ring~
+@314 = ~The Mercykillers are a powerful faction based out of the planar city of Sigil. This ring is given out to Mercykiller assassins when they are sent out to punish those who have broken the laws of Sigil. Often these assassins will roam as far as the Prime Material Plane. 
+
+STATISTICS:
+
+Equipped abilities:
+– Move Silently: +20%
+– Hide In Shadows: +20%
+– Set Traps: +20%
+
+Weight: 0~
+@315 = ~Robe of Vecna~
+@316 = ~This robe doesn't even have close to the power that the two famous artifacts, the Hand and Eye of Vecna, possess. Still, from simply being worn by the powerful lich, the robe absorbed enough magical energies to become a potent magic item.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: 5
+– Magic Resistance: +10%
+– Improves casting speed by 4
+
+Weight: 3~
+@317 = ~Sword of Balduran~
+@318 = ~The Sword of Balduran was the favored weapon of the famous adventurer who founded the city of Baldur's Gate. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +10%
+– Lore: +10
+
+THAC0: +2
+Damage: 1d8+2 (slashing)
+Speed Factor: 3
+Proficiency Type: Long Sword
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+@319 = ~Shield of Balduran~
+@320 = ~This shield was worn by the hero Balduran. It is part of a set of weapons and armor that was stolen from the museum in the city of Baldur's Gate.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Strength: -1
+
+Combat abilities:
+– Reflects beholder rays
+
+Requires:
+ 12 Strength
+
+Weight: 4~
+@41 = ~Staff of Arundel +3~
+@42 = ~This was a lesser version of the Staff of the Woodlands. It was created by Arundel, an archdruid that lived in the city of Kuldahar before he was killed by the devil Belhifet.
+
+STATISTICS:
+
+Equipped abilities:
+– Cold Resistance: +10%
+– Fire Resistance: +10%
+– Can memorize one extra 5th- and one extra 6th-level divine spell
+
+THAC0: +3
+Damage: 1d6+3 (crushing)
+Speed Factor: 0
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 9 Dexterity
+
+Weight: 3~
+@43 = ~Kachiko's Wakizashi +3~
+@44 = ~This sword was the favored weapon of a female warrior named Kachiko. Not much was known about her other than that she hailed from the far eastern lands in Kara-Tur.
+
+STATISTICS:
+
+Combat abilities:
+– Drains 2 points of target's Wisdom for 2 rounds on each hit (Save vs. Death to negate)
+
+THAC0: +3
+Damage: 1d8+3 (piercing)
+Speed Factor: 0
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+@45 = ~Ninjatō of the Scarlet Brotherhood +3~
+@46 = ~When a member of the Scarlet Brotherhood kills one of that organization's "great enemies," they are often rewarded with this sword. How this sword made its way from the world of Greyhawk (where the Brotherhood is based) to Faerûn is a mystery. When unsheathed, the ninjatō will glow blood red.
+
+STATISTICS:
+
+Combat abilities:
+– 1 extra attack per round
+– Hit target takes 6 points of poison damage per round for 2 rounds (Save vs. Death negates)
+
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 1
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 2~
+@47 = ~Sling of Everard +5~
+@48 = ~The sling of Everard was a holy weapon created by the god Tempus and given to Everard to help him defeat the enemies of Icewind Dale. 
+
+STATISTICS:
+
+Combat abilities:
+– When no bullets are equipped, the sling fires missiles that are treated as +5 for the purposes of determining what enemies they can damage. The missiles receive +5 to hit, including the bonus listed below, and deal a total of 1d4+2 missile damage
+
+THAC0: +5
+Damage: +2 (missile)
+Speed Factor: 0
+Proficiency Type: Sling
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 0~
+@49 = ~Jerrod's Mace +2~
+@410 = ~This was the favored weapon of the priest of Tempus named Jerrod. Jerrod sacrificed his life to save the town of Easthaven from the powerful devil known as Belhifet.
+
+STATISTICS:
+
+THAC0: +2, +5 vs. demons and devils
+Damage: 1d6+3, +6 vs. demons and devils
+Damage type: Crushing
+Speed Factor: 5
+Proficiency Type: Mace
+Type: One-handed
+
+Weight: 7~
+@411 = ~Everard's Morning Star +2~
+@412 = ~This morning star was the personal weapon of the cleric Everard. Everard was a powerful priest of Tempus who sacrificed his life in the battle against the devil Belhifet.
+
+STATISTICS:
+
+Combat abilities:
+– 50% chance per hit of making targeted spellcaster lose one spell from memory
+
+THAC0: +2
+Damage: 2d4+2 (crushing)
+Speed Factor: 5
+Proficiency Type: Flail/Morning Star
+Type: One-handed
+Requires:
+ 11 Strength
+
+Weight: 9~
+@413 = ~Spear of Kuldahar +3~
+@414 = ~This spear was forged by the druids who dwelt close to the great tree of Kuldahar. It was meant to be used by the warrior who was appointed as Kuldahar's defender.
+
+STATISTICS:
+
+Equipped abilities:
+– Hit Points: +8
+
+THAC0: +3
+Damage: 1d6+3 (piercing)
+Speed Factor: 3
+Proficiency Type: Spear 
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 3~
+@415 = ~Defender of Easthaven +3~
+@416 = ~This flail was created a century ago to commemorate the defeat of the devil Belhifet. It was meant to always remain within the town of Easthaven to remind the people of the great evil that had been barely defeated. 
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1
+– +20% resistance to slashing, piercing, and crushing damage
+
+THAC0: +3
+Damage: 1d6+4 (crushing)
+Speed Factor: 5
+Proficiency Type: Flail/Morning Star
+Type: One-handed
+Requires:
+ 13 Strength
+
+Weight: 12~
+@417 = ~Joril's Dagger +3~
+@418 = ~Joril was a powerful frost giant that lived with his clan in the Spine of the World. His magic dagger was lost when he was killed by a band of adventurers. Eventually the dagger wound up in the town of Kuldahar where it was reforged so that it could be used as a two-handed sword.
+
+STATISTICS:
+
+Combat abilities:
+– 25% chance of each hit confusing the target for 3 rounds (Save vs. Spell to negate)
+
+THAC0: +3
+Damage: 1d10+3, +1 cold damage
+Damage type: Slashing
+Speed Factor: 7
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 13 Strength
+
+Weight: 10~
+@419 = ~Axe of Hrothgar +3~
+@420 = ~This axe was wielded by an adventurer who lived within the town of Easthaven in Icewind Dale. He died about a century ago trying to rescue his town from the ancient devil Belhifet.
+
+STATISTICS:
+
+Equipped abilities:
+– Wisdom: +1
+– Charisma: +1
+
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 4
+Proficiency Type: Axe
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 5~

@@ -1,0 +1,2 @@
+Ce module place les deux marchands Deirdre et Joluv dans IWDEE, avec tous les objets à vendre que vous connaissez.
+Deirdre et dans la boutique de Gerth et Joluv est dans la taverne.

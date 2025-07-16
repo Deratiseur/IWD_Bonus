@@ -1,0 +1,42 @@
+BACKUP ~Derats_IWD_Bonus/Backup~
+AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
+VERSION ~v1~
+
+LANGUAGE ~Francais~	~French~
+	~Derats_IWD_Bonus/Languages/French/setup.tra~
+LANGUAGE ~English~ ~English~
+	~Derats_IWD_Bonus/Languages/English/setup.tra~
+		
+BEGIN @12 DESIGNATED 0 LABEL PX_IWD_Bonus
+REQUIRE_PREDICATE GAME_IS ~IWDEE~ @13
+
+COPY ~Derats_IWD_Bonus/WAitems/Copy~			~override~
+//COPY ~Derats_IWD_Bonus/NPCitems/Copy~			~override~
+COPY ~Derats_IWD_Bonus/Divers/wmart1.sto~		~override~
+	~Derats_IWD_Bonus/Divers/wmart2.sto~		~override~	SAY 0xc @14
+COMPILE ~Derats_IWD_Bonus/Dialogs~
+EXTEND_TOP ~AR2111.BCS~	~Derats_IWD_Bonus/Divers/AR2111.baf~
+EXTEND_TOP ~AR2113.BCS~	~Derats_IWD_Bonus/Divers/AR2113.baf~
+COPY	~Derats_IWD_Bonus/Divers/wmart1.cre~ 	~override~	SAY NAME1 @5	SAY NAME2 @5
+COPY	~Derats_IWD_Bonus/Divers/wmart2.cre~	~override~	SAY NAME1 @0	SAY NAME2 @0
+//COPY_EXISTING	~wmart2.cre~		~override/wmart3.cre~	SAY NAME1 @9	SAY NAME2 @9	WRITE_SHORT 0x28 50704	WRITE_ASCII 0x2cc ~WMART3~ #8
+COPY ~Derats_IWD_Bonus/WAitems/wa2dak.itm~		~override~	SAY NAME2 @31	SAY DESC @32
+COPY ~Derats_IWD_Bonus/WAitems/wa2amu.itm~		~override~	SAY NAME2 @33	SAY DESC @34
+COPY ~Derats_IWD_Bonus/WAitems/wa2harp.itm~		~override~	SAY NAME2 @35	SAY DESC @36
+COPY ~Derats_IWD_Bonus/WAitems/wa2halb.itm~		~override~	SAY NAME2 @37	SAY DESC @38
+COPY ~Derats_IWD_Bonus/WAitems/wa2helm.itm~		~override~	SAY NAME2 @39	SAY DESC @310
+COPY ~Derats_IWD_Bonus/WAitems/wa2plat.itm~		~override~	SAY NAME2 @311	SAY DESC @312
+COPY ~Derats_IWD_Bonus/WAitems/wa2ring.itm~		~override~	SAY NAME2 @313	SAY DESC @314
+COPY ~Derats_IWD_Bonus/WAitems/wa2robe.itm~		~override~	SAY NAME2 @315	SAY DESC @316
+COPY ~Derats_IWD_Bonus/WAitems/wa2s1h.itm~		~override~	SAY NAME2 @317	SAY DESC @318
+COPY ~Derats_IWD_Bonus/WAitems/wa2shiel.itm~	~override~	SAY NAME2 @319	SAY DESC @320
+COPY ~Derats_IWD_Bonus/WAitems/wastaff.itm~		~override~	SAY NAME2 @41	SAY DESC @42
+COPY ~Derats_IWD_Bonus/WAitems/wawak.itm~		~override~	SAY NAME2 @43	SAY DESC @44
+COPY ~Derats_IWD_Bonus/WAitems/waninja.itm~		~override~	SAY NAME2 @45	SAY DESC @46
+COPY ~Derats_IWD_Bonus/WAitems/wasling.itm~		~override~	SAY NAME2 @47	SAY DESC @48
+COPY ~Derats_IWD_Bonus/WAitems/wamace.itm~		~override~	SAY NAME2 @49	SAY DESC @410
+COPY ~Derats_IWD_Bonus/WAitems/wastar.itm~		~override~	SAY NAME2 @411	SAY DESC @412
+COPY ~Derats_IWD_Bonus/WAitems/waspear.itm~		~override~	SAY NAME2 @413	SAY DESC @414
+COPY ~Derats_IWD_Bonus/WAitems/waflail.itm~		~override~	SAY NAME2 @415	SAY DESC @416
+COPY ~Derats_IWD_Bonus/WAitems/was2h.itm~		~override~	SAY NAME2 @417	SAY DESC @418
+COPY ~Derats_IWD_Bonus/WAitems/waaxe.itm~		~override~	SAY NAME2 @419	SAY DESC @420
