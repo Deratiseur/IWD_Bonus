@@ -11,9 +11,9 @@
 
 ## Description:
 -------------
-Ce module place les deux marchands Deirdre et Joluv dans IWDEE
-Deirdre et dans la boutique de Gerth et Joluv est dans la taverne.
+Ce module place les deux marchands Deirdre et Joluv dans IWDEE.  
+Deirdre est dans la boutique de Gerth et Joluv est dans la taverne.
 
 -------------
-This module places the two merchants Deirdre and Joluv in IWDEE.
+This module places the two merchants Deirdre and Joluv in IWDEE.  
 Deirdre is in Gerth's shop and Joluv is in the tavern.
