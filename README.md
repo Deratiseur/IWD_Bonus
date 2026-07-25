@@ -33,3 +33,4 @@ Deirdre est dans la boutique de Gerth et Joluv est dans la taverne.
 
 </td>
 </tr>
+</table>
