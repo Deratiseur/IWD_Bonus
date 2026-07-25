@@ -4,16 +4,30 @@
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=IWDEE%20%7C&color=dodgerblue)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/Deratiseur/IWD_Bonus/total)
 
-**Autor** : **Deratiseur**
+**Author** : **Deratiseur**
 
 [Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?t=33955)
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Description:
--------------
-Ce module place les deux marchands Deirdre et Joluv dans IWDEE.  
+## 🇫🇷 Description
+
+Ce module place les deux marchands Deirdre et Joluv dans IWDEE.
+
 Deirdre est dans la boutique de Gerth et Joluv est dans la taverne.
 
--------------
-This module places the two merchants Deirdre and Joluv in IWDEE.  
+</td>
+
+<td width="50%" valign="top">
+
+## 🇬🇧 Description
+
+This module places the two merchants Deirdre and Joluv in IWDEE.
+
 Deirdre is in Gerth's shop and Joluv is in the tavern.
+
+</td>
+</tr>
+</table>
